@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>groupId</groupId>
+    <artifactId>spring-security-trunk</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+    <modules>
+        <module>section1/s1_vid1</module>
+        <module>section1/s1_vid2</module>
+        <module>section1/s1_vid3</module>
+        <module>section1/s1_vid4</module>
+        <module>section1/s1_vid5</module>
+        <module>section2/s2_vid1</module>
+        <module>section2/s2_vid2</module>
+        <module>section2/s2_vid3</module>
+        <module>section2/s2_vid3_done</module>
+        <module>section3/s3_vid1</module>
+        <module>section3/s3_vid2</module>
+        <module>section3/s3_vid3</module>
+        <module>section3/s3_vid4</module>
+        <module>section4/s4_vid1</module>
+        <module>section4/s4_vid2</module>
+        <module>section4/s4_vid3</module>
+        <module>section5/s5_vid1</module>
+        <module>section5/s5_vid2</module>
+        <module>section5/s5_vid3</module>
+        <module>section6/s6_vid1</module>
+        <module>section6/s6_vid2</module>
+        <module>section6/s6_vid3</module>
+        <module>section7/s7_vid3</module>
+        <module>section7/s7_vid4</module>
+        <module>spring-security</module>
+    </modules>
+    
+</project>
